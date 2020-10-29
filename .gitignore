@@ -5,5 +5,5 @@ _site
 vendor
 node_modules/
 gulpfile.js
-packag-lock.json
+package-lock.json
 Gemfile.lock
